@@ -40,7 +40,8 @@ Navegador moderno compatible con JavaScript.
 
 Conexión a internet para las fuentes y estilos externos (opcional si deseas usarlos).
 
-##Licencia 📄
+
+## Licencia 📄
 
 Este proyecto está bajo la licencia Noe❤️.
 Gracias por llegar hasta acá.
